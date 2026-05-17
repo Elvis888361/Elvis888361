@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Elvis+Ndegwa;Full-Stack+Developer;React+%7C+Laravel+%7C+Android" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Elvis+Ndegwa;Full-Stack+Developer;React+%7C+Frappe+%7C+Android" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,10 +13,8 @@
 const elvis = {
   location : "Nairobi, Kenya 🇰🇪",
   role     : "Full-Stack Developer",
-  stack    : ["React", "Laravel", "Android", "Node.js", "Python"],
-  ask_me   : ["React", "Laravel", "Android"],
+  stack    : ["Django","frappe","Erpnext","React", "Laravel", "Android", "Next.js", "Python"],
   email    : "elvisndegwa90@gmail.com",
-  portfolio: "https://wtx1dxer1aae6mbeuix2ka.on.drv.tw/www.myweb.com",
   open_to  : "collaborations & new opportunities"
 };
 ```
@@ -85,10 +83,8 @@ const elvis = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Elvis888361-181717?style=for-the-badge&logo=github)](https://github.com/Elvis888361/Elvis888361)
-[![Twitter](https://img.shields.io/badge/Twitter-@elvisndegwa1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@elvisndegwa1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elvis%20Ndegwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvis-ndegwa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elvis%20Ndegwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-ndegwa-b0b785197/)
 [![Instagram](https://img.shields.io/badge/Instagram-elvisndesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elvisndesh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-00e5a0?style=for-the-badge&logo=google-chrome&logoColor=black)](https://wtx1dxer1aae6mbeuix2ka.on.drv.tw/www.myweb.com)
 
 </div>
 
