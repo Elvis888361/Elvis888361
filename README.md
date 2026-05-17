@@ -1,65 +1,81 @@
-# Hi, I'm Elvis Ndegwa Kangethe 👋
+<div align="center">
 
-> Full-stack developer · Nairobi, KE
+```
+$ whoami → Elvis Ndegwa Kangethe · Full-Stack Developer · Nairobi, KE
+```
 
-Passionate full-stack developer comfortable across the entire stack — from polished React frontends to robust Laravel APIs and Android apps. I love building things that are **fast, clean, and useful**. Hit me up about **React**, **Laravel**, or **Android**.
-
----
-
-## 🔗 Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Elvis888361-181717?style=flat&logo=github)](https://github.com/Elvis888361/Elvis888361)
-[![Twitter](https://img.shields.io/badge/Twitter-@elvisndegwa1-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@elvisndegwa1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elvis%20Ndegwa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvis-ndegwa)
-[![Instagram](https://img.shields.io/badge/Instagram-elvisndesh-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/elvisndesh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-00e5a0?style=flat&logo=google-chrome&logoColor=white)](https://wtx1dxer1aae6mbeuix2ka.on.drv.tw/www.myweb.com)
-
-📫 **Email:** elvisndegwa90@gmail.com
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+Passionate full-stack developer comfortable across the entire stack —
+from polished **React** frontends to robust **Laravel** APIs and **Android** apps.
+I build things that are fast, clean, and useful.
 
-**Backend & Mobile**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Elvis888361-181717?style=flat-square&logo=github)](https://github.com/Elvis888361/Elvis888361)
+[![Twitter](https://img.shields.io/badge/Twitter-@elvisndegwa1-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/@elvisndegwa1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elvis%20Ndegwa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvis-ndegwa)
+[![Instagram](https://img.shields.io/badge/Instagram-elvisndesh-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/elvisndesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-00e5a0?style=flat-square&logo=google-chrome&logoColor=white)](https://wtx1dxer1aae6mbeuix2ka.on.drv.tw/www.myweb.com)
+[![Email](https://img.shields.io/badge/Email-elvisndegwa90@gmail.com-7C6FF7?style=flat-square&logo=gmail&logoColor=white)](mailto:elvisndegwa90@gmail.com)
 
-**Data & DevOps**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### ◈ Frontend
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elvis888361&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![React](https://img.shields.io/badge/React-0d0f14?style=flat-square&logo=react&logoColor=00e5a0)
+![Angular](https://img.shields.io/badge/Angular-0d0f14?style=flat-square&logo=angular&logoColor=00e5a0)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0f14?style=flat-square&logo=javascript&logoColor=00e5a0)
+![HTML5](https://img.shields.io/badge/HTML5-0d0f14?style=flat-square&logo=html5&logoColor=00e5a0)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0f14?style=flat-square&logo=bootstrap&logoColor=00e5a0)
+![Figma](https://img.shields.io/badge/Figma-0d0f14?style=flat-square&logo=figma&logoColor=00e5a0)
+
+### ◈ Backend & Mobile
+
+![Laravel](https://img.shields.io/badge/Laravel-0d0f14?style=flat-square&logo=laravel&logoColor=7C6FF7)
+![PHP](https://img.shields.io/badge/PHP-0d0f14?style=flat-square&logo=php&logoColor=7C6FF7)
+![Node.js](https://img.shields.io/badge/Node.js-0d0f14?style=flat-square&logo=nodedotjs&logoColor=7C6FF7)
+![Express](https://img.shields.io/badge/Express-0d0f14?style=flat-square&logo=express&logoColor=7C6FF7)
+![Django](https://img.shields.io/badge/Django-0d0f14?style=flat-square&logo=django&logoColor=7C6FF7)
+![Flask](https://img.shields.io/badge/Flask-0d0f14?style=flat-square&logo=flask&logoColor=7C6FF7)
+![Python](https://img.shields.io/badge/Python-0d0f14?style=flat-square&logo=python&logoColor=7C6FF7)
+![Java](https://img.shields.io/badge/Java-0d0f14?style=flat-square&logo=openjdk&logoColor=7C6FF7)
+![Android](https://img.shields.io/badge/Android-0d0f14?style=flat-square&logo=android&logoColor=7C6FF7)
+![C](https://img.shields.io/badge/C-0d0f14?style=flat-square&logo=c&logoColor=7C6FF7)
+
+### ◈ Data & DevOps
+
+![MySQL](https://img.shields.io/badge/MySQL-0d0f14?style=flat-square&logo=mysql&logoColor=00e5a0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0f14?style=flat-square&logo=postgresql&logoColor=00e5a0)
+![SQLite](https://img.shields.io/badge/SQLite-0d0f14?style=flat-square&logo=sqlite&logoColor=00e5a0)
+![Firebase](https://img.shields.io/badge/Firebase-0d0f14?style=flat-square&logo=firebase&logoColor=00e5a0)
+![AWS](https://img.shields.io/badge/AWS-0d0f14?style=flat-square&logo=amazonaws&logoColor=00e5a0)
+![Git](https://img.shields.io/badge/Git-0d0f14?style=flat-square&logo=git&logoColor=00e5a0)
+![Linux](https://img.shields.io/badge/Linux-0d0f14?style=flat-square&logo=linux&logoColor=00e5a0)
+![Postman](https://img.shields.io/badge/Postman-0d0f14?style=flat-square&logo=postman&logoColor=00e5a0)
+![Pandas](https://img.shields.io/badge/Pandas-0d0f14?style=flat-square&logo=pandas&logoColor=00e5a0)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0f14?style=flat-square&logo=scikitlearn&logoColor=00e5a0)
 
 ---
+
+### ◈ GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=elvis888361&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=00e5a0&text_color=b8bdd6)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elvis888361&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=00e5a0&text_color=b8bdd6&icon_color=7C6FF7)
+
+</div>
+
+---
+
+<div align="center">
 
 *Open to collaborations · elvisndegwa90@gmail.com*
+
+</div>
